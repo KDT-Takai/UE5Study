@@ -1,6 +1,3 @@
-2026/06/23-09:15:18.160 39a8 Log #6: 1 ops saved to Table #7 OK
-2026/06/23-09:15:18.160 39a8 Archiving C:\Users\com\Desktop\UE5\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/06/23-09:15:18.161 39a8 Table #4: 2 entries OK
-2026/06/23-09:15:18.161 39a8 Table #7: 1 entries OK
-2026/06/23-09:15:18.163 39a8 Archiving C:\Users\com\Desktop\UE5\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/06/23-09:15:18.174 39a8 **** Repaired leveldb C:\Users\com\Desktop\UE5\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
+2026/07/07-09:16:42.714 37c0 Reusing MANIFEST C:\Users\com\Desktop\b\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/07-09:16:42.722 37c0 Recovering log #12
+2026/07/07-09:16:42.722 37c0 Reusing old log C:\Users\com\Desktop\b\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
