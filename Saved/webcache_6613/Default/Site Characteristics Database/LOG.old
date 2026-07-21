@@ -1,8 +1,6 @@
-2026/07/14-09:32:38.339 697c Log #12: 3 ops saved to Table #13 OK
-2026/07/14-09:32:38.343 697c Archiving C:\Users\com\Desktop\a\Saved\webcache_6613\Default\Site Characteristics Database/000012.log: OK
-2026/07/14-09:32:38.344 697c Table #4: 2 entries OK
-2026/07/14-09:32:38.344 697c Table #7: 1 entries OK
-2026/07/14-09:32:38.344 697c Table #10: 1 entries OK
-2026/07/14-09:32:38.344 697c Table #13: 3 entries OK
-2026/07/14-09:32:38.347 697c Archiving C:\Users\com\Desktop\a\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/07/14-09:32:38.351 697c **** Repaired leveldb C:\Users\com\Desktop\a\Saved\webcache_6613\Default\Site Characteristics Database; recovered 4 files; 694 bytes. Some data may have been lost. ****
+2026/07/21-09:14:11.257 2b9c Log #15: 1 ops saved to Table #17 OK
+2026/07/21-09:14:11.263 2b9c Archiving C:\Users\com\Desktop\a\Saved\webcache_6613\Default\Site Characteristics Database/000015.log: OK
+2026/07/21-09:14:11.263 2b9c Table #16: 2 entries OK
+2026/07/21-09:14:11.263 2b9c Table #17: 1 entries OK
+2026/07/21-09:14:11.265 2b9c Archiving C:\Users\com\Desktop\a\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/07/21-09:14:11.268 2b9c **** Repaired leveldb C:\Users\com\Desktop\a\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 353 bytes. Some data may have been lost. ****
